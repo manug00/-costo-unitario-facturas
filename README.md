@@ -8,7 +8,7 @@ Página para calcular el costo unitario de cada artículo de una factura de comp
 - Las **facturas en dólares** se pesifican al tipo de cambio de la factura, incluido el total con IVA y percepciones.
 - No tiene en cuenta los pallets ni los impuestos.
 
-Lee los PDF de ACA (pesos) y de Molino Cañuelas (dólares). Cualquier otra factura se puede cargar a mano.
+Lee los PDF de ACA (pesos), Molino Cañuelas y COFCO (dólares). Cualquier otra factura se puede cargar a mano.
 Todo se calcula en el navegador: la factura no se sube a ningún lado.
 
 **Excel:** el botón "Bajar en Excel" arma una planilla con la factura cargada y todas las fórmulas.
