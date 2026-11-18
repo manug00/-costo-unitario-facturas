@@ -5,7 +5,7 @@ Página para calcular el costo unitario de cada artículo de una factura de comp
 - Reparte el **descuento general** y el **recargo** según el importe de cada artículo.
 - Reparte el **flete** por importe o por kilos.
 - Las **bolsas sin cargo** (renglones con 100 % de descuento) se cargan al costo de las pagas del mismo código.
-- Las **facturas en dólares** se pesifican al tipo de cambio de la factura.
+- Las **facturas en dólares** se pesifican al tipo de cambio de la factura, incluido el total con IVA y percepciones.
 - No tiene en cuenta los pallets ni los impuestos.
 
 Lee los PDF de ACA (pesos) y de Molino Cañuelas (dólares). Cualquier otra factura se puede cargar a mano.
